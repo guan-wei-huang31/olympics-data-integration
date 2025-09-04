@@ -1,6 +1,6 @@
 # Olympics Data Cleaning and Integration Project
 
-##📌 Overview
+## 📌 Overview
 This project processes large Olympic open datasets, integrates the Paris 2024 data, cleans inconsistencies, and generates updated, tabulated CSV outputs.
 The final deliverables include cleaned datasets and a medal tally summary across all Olympic editions.
 
@@ -27,7 +27,7 @@ The application performs the following tasks:
 	- new_olympics_country.csv
 	- new_olympics_games.csv
 	- new_medal_tally.csv
-# Conceptual Diagram:
+## Conceptual Diagram:
    ![Process Flow](figure/process_flow.png)
    
 ## 🚀 Execution
